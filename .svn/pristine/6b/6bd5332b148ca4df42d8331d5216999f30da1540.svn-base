@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>FH SERVICE</title>
+<link href="/fh.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="center">
+	<div id="bkg" class="bkg">
+		<div id="info">
+		  <p><span>ТзОВ "ФХ СЕРВІС"</span></p>
+		  <p>&nbsp;</p>
+		  <p class="header">Контактна інформація&nbsp;</p>
+		  <p>тел. (032) 235-1111</p>
+		  <p>факс: (032) 235-1112</p>
+		  <p>e-mail: office@fhservice.lviv.ua</p>
+		  <p><a href="http://maps.google.com.ua/maps?hl=uk&amp;q=+49° 53' 5.00&quot;, +24° 4' http://maps.google.com.ua/maps?hl=uk&amp;q=+49В°+53'+5.00&quot;,++24В°+4'+51.10&quot;&amp;ie=UTF8&amp;ll=49.884612,24.080797&amp;spn=0.005606,0.009645&amp;t=h&amp;z=17" target="_map235"><img src="img/mapa.jpg" alt="Карта" width="175" height="148" border="0" /></a></p>
+ 		 <p>с. Малехів, Львівська обл.<br />
+вул. Лесі Українки, 45</p>
+		  <p>&nbsp;</p>
+		  <p class="header">Час роботи&nbsp;</p>
+		  <p>Понеділок-П'ятниця: 
+			08.00-24.00</p>
+		  <p>Субота: 
+			09.00-16.00</p>
+		  <p>Неділя: 
+		  Вихідний</p>
+		  
+		  <a href="/rent"><p>Оренда</p></a>
+		</div>
+	</div>
+</div>
+<div id="footer">&copy;&nbsp;FH Service, Ltd., 2010. All rights reserved.<br />
+<a href="http://www.sp-service.com.ua/">Design</a> by SP-Service, 2010</div>
+</body>
+</html>

@@ -1,0 +1,74 @@
+/* CSS Document */
+body, html {
+height:100%;
+}
+
+body {
+	background-color: #CDCDCD;
+	margin:0 auto;
+}
+#center 
+{
+	width:976px;
+	height:96%;
+	min-height:731px;
+	background-color:#FFFFFF;
+	margin:0 auto;
+}
+
+.header {
+	color: #586586;
+	font-size:18px;
+	font-variant:small-caps;
+}
+
+.bkg {
+	width:976px;
+	height:731px;
+	text-align:right;
+}
+#bkg{
+	background:url(img/fhtop2.jpg) no-repeat center top;
+}
+#bkg2{
+	background:url(img/spec.jpg) no-repeat center top;
+}
+
+#info {
+	width:300px;
+	font-size: 14px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#475475;
+	font-weight: bold;
+	float:right;
+	padding-right:20px;
+}
+
+#info span {
+	font-size: 22px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#475475;
+	font-weight:bold;
+}
+
+#footer {
+	width:976px;
+	text-align:right;
+	border-top:1px #999999 dotted;
+	color:#999999;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	height:3.9%;
+	background-color:#FFFFFF;
+	margin:0 auto;
+}
+
+#footer a {
+	color:#999999;
+	text-decoration:none;
+}
+
+.mapimg {
+	float: left;
+	padding:25px;
+}

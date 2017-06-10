@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>FH SERVICE</title>
+<link href="/fh.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<form action='sendEmail.php' id='inputForm' method='post'>
+     <div id='authBkg'>
+        <table id='auth'>
+             <tr><td>Кому?</td><td><input name='to' value="pavel@fhservice.com.ua"></td></tr>
+             <tr><td>Тема</td><td><input name='subject' value="test email"></td></tr>
+             <tr><td>Повідомлення</td><td><textarea name='message' value="text"></textarea></td></tr>
+             <tr><td></td><td><button type="submit" id='changePassButton'>надіслати</button></td></tr>
+         </table>
+     </div>
+</form>
+</body>
+</html>
